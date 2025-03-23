@@ -1,7 +1,7 @@
 ﻿
 namespace DDD.Domain.ValueObjects
 {
-    public sealed class Temperature
+    public sealed class Temperature : ValueObject<Temperature>
     {
         public const string UnitName = "℃";
         public const int DecimalPoint = 2;
@@ -16,31 +16,30 @@ namespace DDD.Domain.ValueObjects
         {
             get 
             {
-                return CommonFunc.RoundString(Value, DecimalPoint) + " " + UnitName;
+                return CommonFunc.RoundString(Value, DecimalPoint);
             } 
         }
 
-        public override bool Equals(object obj)
+        public string DisplayValueWithUnit
         {
-            var vo = obj as Temperature;
-            if(vo == null)
+            get
             {
-                return false;
+                return CommonFunc.RoundString(Value, DecimalPoint) + UnitName;
             }
-
-            return Value == vo.Value;
         }
 
-        public static bool operator == (Temperature vo1,
-            Temperature vo2)
+        public string DisplayValueWithUnitSpace
         {
-            return Equals(vo1, vo2);
+            get
+            {
+                return CommonFunc.RoundString(Value, DecimalPoint) + " " + UnitName;
+            }
         }
 
-        public static bool operator !=(Temperature vo1,
-            Temperature vo2)
+
+        protected override bool EqualsCore(Temperature other)
         {
-            return !Equals(vo1, vo2);
+            return Value == other.Value;
         }
     }
 }

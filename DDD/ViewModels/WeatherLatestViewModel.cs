@@ -32,9 +32,8 @@ namespace DDD.ViewModels
             {
                 DataDateText = entity.DataDate.ToString();
                 ConditionText = entity.Condition.ToString();
-                TemperatureText = CommonFunc.RoundString(entity.Temperature,
-                    Temperature.DecimalPoint) + " " +
-                    Temperature.UnitName;
+
+                TemperatureText = entity.Temperature.DisplayValueWithUnitSpace;
             }
         }
     }

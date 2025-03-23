@@ -1,5 +1,6 @@
 ﻿
 
+using DDD.Domain.ValueObjects;
 using System;
 
 namespace DDD.Domain.Entities
@@ -15,7 +16,7 @@ namespace DDD.Domain.Entities
             AreaId = areaId;
             DataDate = dataDate;
             Condition = condition;
-            Temperature = temperature;
+            Temperature = new Temperature(temperature);
         }
         //      dt.Columns.Add("AreaId", typeof(int));
         //dt.Columns.Add("DataDate", typeof(DateTime));
@@ -25,13 +26,16 @@ namespace DDD.Domain.Entities
         public int AreaId { get;  }
         public DateTime DataDate { get;  }
         public int Condition { get;  }
-        public float Temperature { get; }
+        public Temperature Temperature { get; }
 
         public bool IsOK()
         {
             if(DataDate < DateTime.Now.AddMonths(-1))
             {
-                return false;
+                if(Temperature.Value < 10)
+                {
+                    return false;
+                }
             }
 
             return true;
