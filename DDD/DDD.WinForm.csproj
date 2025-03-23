@@ -102,6 +102,16 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DDD.Domain\DDD.Domain.csproj">
+      <Project>{f9dbf91a-21c8-4892-84d4-3f1e8f1e8abf}</Project>
+      <Name>DDD.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DDD.Infrastructure\DDD.Infrastructure.csproj">
+      <Project>{379442c9-4cbb-4e23-b33f-7b40d13dec8b}</Project>
+      <Name>DDD.Infrastructure</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
