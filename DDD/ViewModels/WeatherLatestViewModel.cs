@@ -24,13 +24,13 @@ namespace DDD.ViewModels
 
         public void Search()
         {
-            var dt = _weather.GetLatest(Convert.ToInt32(AreaIdText));
+            var entity = _weather.GetLatest(Convert.ToInt32(AreaIdText));
 
-            if (dt.Rows.Count > 0)
+            if (entity != null)
             {
-                DataDateText = dt.Rows[0]["DataDate"].ToString();
-                ConditionText = dt.Rows[0]["Condition"].ToString();
-                TemperatureText = CommonFunc.RoundString(Convert.ToSingle(dt.Rows[0]["Temperature"]),
+                DataDateText = entity.DataDate.ToString();
+                ConditionText = entity.Condition.ToString();
+                TemperatureText = CommonFunc.RoundString(entity.Temperature,
                     CommonConst.TemperatureDecimalPoint) + " " +
                     CommonConst.TemperatureUnitName;
             }
