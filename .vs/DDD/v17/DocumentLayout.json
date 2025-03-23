@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\getty\\source\\repos\\DDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEE14EFE-B68A-4BBD-8168-0E30699B9595}|DDDTest.Tests\\DDDTest.Tests.csproj|c:\\users\\getty\\source\\repos\\ddd\\dddtest.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE14EFE-B68A-4BBD-8168-0E30699B9595}|DDDTest.Tests\\DDDTest.Tests.csproj|solutionrelative:dddtest.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|c:\\users\\getty\\source\\repos\\ddd\\ddd\\viewmodels\\weatherlatestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|solutionrelative:ddd\\viewmodels\\weatherlatestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.csproj|c:\\users\\getty\\source\\repos\\ddd\\ddd\\weathrelatestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BEE14EFE-B68A-4BBD-8168-0E30699B9595}|DDDTest.Tests\\DDDTest.Tests.csproj|c:\\users\\getty\\source\\repos\\ddd\\dddtest.tests\\weathrelatestviewmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE14EFE-B68A-4BBD-8168-0E30699B9595}|DDDTest.Tests\\DDDTest.Tests.csproj|solutionrelative:dddtest.tests\\weathrelatestviewmodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DBF91A-21C8-4892-84D4-3F1E8F1E8ABF}|DDD.Domain\\DDD.Domain.csproj|c:\\users\\getty\\source\\repos\\ddd\\ddd.domain\\repositories\\iweatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DBF91A-21C8-4892-84D4-3F1E8F1E8ABF}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\repositories\\iweatherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|c:\\users\\getty\\source\\repos\\ddd\\ddd\\views\\weathrelatestview.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|solutionrelative:ddd\\views\\weathrelatestview.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|c:\\users\\getty\\source\\repos\\ddd\\ddd\\views\\weathrelatestview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|solutionrelative:ddd\\views\\weathrelatestview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|c:\\users\\getty\\source\\repos\\ddd\\ddd\\views\\weathrelatestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|solutionrelative:ddd\\views\\weathrelatestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|c:\\users\\getty\\source\\repos\\ddd\\ddd\\views\\weathrelatestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|solutionrelative:ddd\\views\\weathrelatestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.csproj|C:\\Users\\getty\\source\\repos\\DDD\\ddd\\weathrelatestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.csproj|solutionrelative:ddd\\weathrelatestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.csproj|C:\\Users\\getty\\source\\repos\\DDD\\ddd\\weathrelatestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.csproj|solutionrelative:ddd\\weathrelatestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE14EFE-B68A-4BBD-8168-0E30699B9595}|DDDTest.Tests\\DDDTest.Tests.csproj|c:\\users\\getty\\source\\repos\\ddd\\dddtest.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE14EFE-B68A-4BBD-8168-0E30699B9595}|DDDTest.Tests\\DDDTest.Tests.csproj|solutionrelative:dddtest.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.csproj|C:\\Users\\getty\\source\\repos\\DDD\\ddd\\data\\weathersqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.csproj|C:\\Users\\getty\\source\\repos\\DDD\\ddd\\common\\commonconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.csproj|solutionrelative:ddd\\common\\commonconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.csproj|C:\\Users\\getty\\source\\repos\\DDD\\ddd\\weathrelatestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.csproj|solutionrelative:ddd\\weathrelatestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.csproj|C:\\Users\\getty\\source\\repos\\DDD\\ddd\\common\\commonfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,6 +67,95 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WeatherLatestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\ViewModels\\WeatherLatestViewModel.cs",
+              "RelativeDocumentMoniker": "DDD\\ViewModels\\WeatherLatestViewModel.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\ViewModels\\WeatherLatestViewModel.cs",
+              "RelativeToolTip": "DDD\\ViewModels\\WeatherLatestViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:50:46.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeathreLatestView.resx",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Views\\WeathreLatestView.resx",
+              "RelativeDocumentMoniker": "DDD\\Views\\WeathreLatestView.resx",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Views\\WeathreLatestView.resx",
+              "RelativeToolTip": "DDD\\Views\\WeathreLatestView.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-23T07:41:48.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWeatherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD.Domain\\Repositories\\IWeatherRepository.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Repositories\\IWeatherRepository.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD.Domain\\Repositories\\IWeatherRepository.cs",
+              "RelativeToolTip": "DDD.Domain\\Repositories\\IWeatherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:32:08.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeathreLatestViewModelTest.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDDTest.Tests\\WeathreLatestViewModelTest.cs",
+              "RelativeDocumentMoniker": "DDDTest.Tests\\WeathreLatestViewModelTest.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDDTest.Tests\\WeathreLatestViewModelTest.cs",
+              "RelativeToolTip": "DDDTest.Tests\\WeathreLatestViewModelTest.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:19:34.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeathreLatestView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Views\\WeathreLatestView.Designer.cs",
+              "RelativeDocumentMoniker": "DDD\\Views\\WeathreLatestView.Designer.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Views\\WeathreLatestView.Designer.cs",
+              "RelativeToolTip": "DDD\\Views\\WeathreLatestView.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:23:05.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeathreLatestView.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Views\\WeathreLatestView.cs",
+              "RelativeDocumentMoniker": "DDD\\Views\\WeathreLatestView.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Views\\WeathreLatestView.cs",
+              "RelativeToolTip": "DDD\\Views\\WeathreLatestView.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:22:12.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeathreLatestView.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Views\\WeathreLatestView.cs",
+              "RelativeDocumentMoniker": "DDD\\Views\\WeathreLatestView.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Views\\WeathreLatestView.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "DDD\\Views\\WeathreLatestView.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:22:12.655Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDDTest.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "DDDTest.Tests\\UnitTest1.cs",
@@ -51,31 +168,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherSQLite.cs",
-              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Data\\WeatherSQLite.cs",
-              "RelativeDocumentMoniker": "DDD\\Data\\WeatherSQLite.cs",
-              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Data\\WeatherSQLite.cs",
-              "RelativeToolTip": "DDD\\Data\\WeatherSQLite.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACUAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "WeathreLatestView.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\WeathreLatestView.cs",
+              "RelativeDocumentMoniker": "DDD\\WeathreLatestView.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\WeathreLatestView.cs",
+              "RelativeToolTip": "DDD\\WeathreLatestView.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T02:49:53.478Z"
+              "WhenOpened": "2025-03-20T16:55:20.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommonConst.cs",
-              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Common\\CommonConst.cs",
-              "RelativeDocumentMoniker": "DDD\\Common\\CommonConst.cs",
-              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Common\\CommonConst.cs",
-              "RelativeToolTip": "DDD\\Common\\CommonConst.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "WeathreLatestView.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\WeathreLatestView.cs",
+              "RelativeDocumentMoniker": "DDD\\WeathreLatestView.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\WeathreLatestView.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "DDD\\WeathreLatestView.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T02:47:29.51Z"
+              "WhenOpened": "2025-03-20T16:45:24.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "CommonFunc.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Common\\CommonFunc.cs",
               "RelativeDocumentMoniker": "DDD\\Common\\CommonFunc.cs",
@@ -87,27 +203,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeathreLatestView.cs",
-              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\WeathreLatestView.cs",
-              "RelativeDocumentMoniker": "DDD\\WeathreLatestView.cs",
-              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\WeathreLatestView.cs",
-              "RelativeToolTip": "DDD\\WeathreLatestView.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "CommonConst.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Common\\CommonConst.cs",
+              "RelativeDocumentMoniker": "DDD\\Common\\CommonConst.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Common\\CommonConst.cs",
+              "RelativeToolTip": "DDD\\Common\\CommonConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:55:20.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T02:47:29.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeathreLatestView.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\WeathreLatestView.cs",
-              "RelativeDocumentMoniker": "DDD\\WeathreLatestView.cs",
-              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\WeathreLatestView.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "RelativeToolTip": "DDD\\WeathreLatestView.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentIndex": 10,
+              "Title": "WeatherSQLite.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Data\\WeatherSQLite.cs",
+              "RelativeDocumentMoniker": "DDD\\Data\\WeatherSQLite.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Data\\WeatherSQLite.cs",
+              "RelativeToolTip": "DDD\\Data\\WeatherSQLite.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:45:24.267Z"
+              "WhenOpened": "2025-03-23T02:49:53.478Z"
             }
           ]
         }
