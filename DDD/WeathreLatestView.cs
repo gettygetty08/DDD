@@ -1,4 +1,6 @@
-﻿using System;
+﻿using DDD.Common;
+using DDD.Data;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,7 +15,6 @@ namespace DDD
 {
     public partial class WeathreLatestView: Form
     {
-        private readonly string ConnectionString = @"Data Source=C:\Users\getty\OneDrive\デスクトップ\DDD.db;Version=3;";
 
         public WeathreLatestView()
         {
@@ -22,42 +23,20 @@ namespace DDD
 
         private void LatestButton_Click(object sender, EventArgs e)
         {
-            string sql = @"
-select DataDate,
-       Condition, 
-       Temperature
-from Weather
-where AreaId = @AreaId
-order by DataDate desc
-limit 1
-";
-            DataTable dt = new DataTable();
-            using(var connection = new SQLiteConnection(ConnectionString))
-                using(var command = new SQLiteCommand(sql, connection))
-            {
-                connection.Open();
+            var dt = WeatherSQLite.GetLatest(Convert.ToInt32(AreaIdTextBox.Text));
 
-                command.Parameters.AddWithValue("@AreaId", this.AreaIdTextBox.Text);
-                using(var adapter = new SQLiteDataAdapter(command))
-                {
-                    adapter.Fill(dt);
-                }
-            }
-
-            if(dt.Rows.Count > 0)
+            if (dt.Rows.Count > 0)
             {
                 DataDateLabel.Text = dt.Rows[0]["DataDate"].ToString();
                 ConditionLabel.Text = dt.Rows[0]["Condition"].ToString();
-                temperatureLabel.Text = RoundString(Convert.ToSingle(dt.Rows[0]["Temperature"]),2)+"℃";
+                temperatureLabel.Text = CommonFunc.RoundString(Convert.ToSingle(dt.Rows[0]["Temperature"]),
+                    CommonConst.TemperatureDecimalPoint)+
+                    CommonConst.TemperatureUnitName;
             }
 
 
         }
 
-        private string RoundString(float value,int decimalPoint)
-        {
-            var temp = Convert.ToSingle(Math.Round(value, decimalPoint));
-            return temp.ToString("F" + decimalPoint);
-        }
+
     }
 }
