@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DDD.Common
+namespace DDD.Domain
 {
     public static class CommonFunc
     {

@@ -1,5 +1,7 @@
 ﻿using DDD.Common;
+using DDD.Domain;
 using DDD.Domain.Repositories;
+using DDD.Domain.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,8 +33,8 @@ namespace DDD.ViewModels
                 DataDateText = entity.DataDate.ToString();
                 ConditionText = entity.Condition.ToString();
                 TemperatureText = CommonFunc.RoundString(entity.Temperature,
-                    CommonConst.TemperatureDecimalPoint) + " " +
-                    CommonConst.TemperatureUnitName;
+                    Temperature.DecimalPoint) + " " +
+                    Temperature.UnitName;
             }
         }
     }
