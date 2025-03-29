@@ -1,4 +1,6 @@
 ﻿
+using DDD.Domain.Helpers;
+
 namespace DDD.Domain.ValueObjects
 {
     public sealed class Temperature : ValueObject<Temperature>
@@ -16,7 +18,7 @@ namespace DDD.Domain.ValueObjects
         {
             get 
             {
-                return CommonFunc.RoundString(Value, DecimalPoint);
+                return FloatHelper.RoundString(Value, DecimalPoint);
             } 
         }
 
@@ -24,7 +26,7 @@ namespace DDD.Domain.ValueObjects
         {
             get
             {
-                return CommonFunc.RoundString(Value, DecimalPoint) + UnitName;
+                return FloatHelper.RoundString(Value, DecimalPoint) + UnitName;
             }
         }
 
@@ -32,7 +34,7 @@ namespace DDD.Domain.ValueObjects
         {
             get
             {
-                return CommonFunc.RoundString(Value, DecimalPoint) + " " + UnitName;
+                return FloatHelper.RoundString(Value, DecimalPoint) + " " + UnitName;
             }
         }
 
