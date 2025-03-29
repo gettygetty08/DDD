@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\getty\\source\\repos\\DDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9DBF91A-21C8-4892-84D4-3F1E8F1E8ABF}|DDD.Domain\\DDD.Domain.csproj|C:\\Users\\getty\\source\\repos\\DDD\\ddd.domain\\valueobjects\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9DBF91A-21C8-4892-84D4-3F1E8F1E8ABF}|DDD.Domain\\DDD.Domain.csproj|c:\\users\\getty\\source\\repos\\ddd\\ddd.domain\\valueobjects\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9DBF91A-21C8-4892-84D4-3F1E8F1E8ABF}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\valueobjects\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9DBF91A-21C8-4892-84D4-3F1E8F1E8ABF}|DDD.Domain\\DDD.Domain.csproj|c:\\users\\getty\\source\\repos\\ddd\\ddd.domain\\helpers\\floathelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9DBF91A-21C8-4892-84D4-3F1E8F1E8ABF}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\helpers\\floathelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9DBF91A-21C8-4892-84D4-3F1E8F1E8ABF}|DDD.Domain\\DDD.Domain.csproj|C:\\Users\\getty\\source\\repos\\DDD\\ddd.domain\\helpers\\floathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DBF91A-21C8-4892-84D4-3F1E8F1E8ABF}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\helpers\\floathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|c:\\users\\getty\\source\\repos\\ddd\\ddd\\viewmodels\\weatherlatestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9DBF91A-21C8-4892-84D4-3F1E8F1E8ABF}|DDD.Domain\\DDD.Domain.csproj|c:\\users\\getty\\source\\repos\\ddd\\ddd.domain\\commonconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DBF91A-21C8-4892-84D4-3F1E8F1E8ABF}|DDD.Domain\\DDD.Domain.csproj|solutionrelative:ddd.domain\\commonconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|C:\\Users\\getty\\source\\repos\\DDD\\ddd\\viewmodels\\weatherlatestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC9BBF75-487B-4CA2-8786-E319DD30DEB9}|DDD\\DDD.WinForm.csproj|solutionrelative:ddd\\viewmodels\\weatherlatestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,24 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonConst.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD.Domain\\CommonConst.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\CommonConst.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD.Domain\\CommonConst.cs",
+              "RelativeToolTip": "DDD.Domain\\CommonConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:37:00.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FloatHelpers.cs",
-              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD.Domain\\Helpers\\FloatHelpers.cs",
-              "RelativeDocumentMoniker": "DDD.Domain\\Helpers\\FloatHelpers.cs",
-              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD.Domain\\Helpers\\FloatHelpers.cs*",
-              "RelativeToolTip": "DDD.Domain\\Helpers\\FloatHelpers.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Title": "FloatHelper.cs",
+              "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD.Domain\\Helpers\\FloatHelper.cs",
+              "RelativeDocumentMoniker": "DDD.Domain\\Helpers\\FloatHelper.cs",
+              "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD.Domain\\Helpers\\FloatHelper.cs*",
+              "RelativeToolTip": "DDD.Domain\\Helpers\\FloatHelper.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T08:48:59.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WeathreLatestView.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\Views\\WeathreLatestView.cs",
               "RelativeDocumentMoniker": "DDD\\Views\\WeathreLatestView.cs",
@@ -62,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TemperatureTest.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDDTest.Tests\\TemperatureTest.cs",
               "RelativeDocumentMoniker": "DDDTest.Tests\\TemperatureTest.cs",
@@ -80,14 +97,14 @@
               "RelativeDocumentMoniker": "DDD.Domain\\ValueObjects\\Temperature.cs",
               "ToolTip": "C:\\Users\\getty\\source\\repos\\DDD\\DDD.Domain\\ValueObjects\\Temperature.cs*",
               "RelativeToolTip": "DDD.Domain\\ValueObjects\\Temperature.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T10:24:50.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WeatherEntity.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD.Domain\\Entities\\WeatherEntity.cs",
               "RelativeDocumentMoniker": "DDD.Domain\\Entities\\WeatherEntity.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WeatherLatestViewModel.cs",
               "DocumentMoniker": "C:\\Users\\getty\\source\\repos\\DDD\\DDD\\ViewModels\\WeatherLatestViewModel.cs",
               "RelativeDocumentMoniker": "DDD\\ViewModels\\WeatherLatestViewModel.cs",
@@ -107,8 +124,7 @@
               "RelativeToolTip": "DDD\\ViewModels\\WeatherLatestViewModel.cs",
               "ViewState": "AgIAABEAAAAAAAAAAADwvyEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:21:43.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:21:43.481Z"
             }
           ]
         }
